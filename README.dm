@@ -25,9 +25,11 @@ test.csv
 users.csv
 books.csv
 book_genres.csv
-book_descriptions.csv
+book_descriptions.csv 
 sample_submission.csv
 genres.csv
+Примечание: В данном репозитории данные не все включены из-за их размера.
+Для воспроизведения результатов скачайте данные с платформы соревнования.
 
 Запустите основной скрипт:
 python ml.py
@@ -67,3 +69,4 @@ Fold	 CatBoost	  LightGBM	    Ensemble
 
 
 Средний результат: 0.79024
+
